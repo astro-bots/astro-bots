@@ -3,7 +3,7 @@
 
 
 # voltredev  
-*Développeur full‑stack / Passionné de FiveM*
+*Un jeune développeur passioné dans le développement FiveM*
 
 ---
 
