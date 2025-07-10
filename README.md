@@ -1,5 +1,5 @@
 <!-- Bannière en haut (tu peux remplacer l'URL par celle de ton image/bannière perso) -->
-![VoltreDev](https://raw.githubusercontent.com/astro-bots/astro-bots/main/astrobot.png)
+![Astro Bot](https://raw.githubusercontent.com/astro-bots/astro-bots/main/astrobot.png)
 
 
 # AstroBots
